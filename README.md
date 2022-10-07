@@ -6,3 +6,4 @@ Este repositorio se encarga de almacenar los algoritmos vistos en la materia de 
 - [Segment Tree](https://github.com/Bussy888/Algoritmica/tree/main/Estructura%20de%20Datos/Segment%20Tree)
 - [BIT (Binary Indexed Tree)](https://github.com/Bussy888/Algoritmica/tree/main/Estructura%20de%20Datos/BIT%20%5BBinary%20Indexed%20Tree%5D)
 ## Backtracking
+- [Backtracking](https://github.com/Bussy888/Algoritmica/tree/main/Backtracking)
