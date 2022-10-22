@@ -4,4 +4,6 @@ El algoritmo de Rod Cutting o Cortando la Barra busca el mejor precio que se pue
 
 ## Referencias
 [GeeksForGeeks](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)
+
+
 [Algorithms With Attitude](https://www.youtube.com/watch?v=re9rF9SqRFc)
