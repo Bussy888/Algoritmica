@@ -7,7 +7,7 @@ Y comparara si es que hay que borrar o insertar letras en superman para consegui
 
 
 
-![EditDistance](https://www.researchgate.net/publication/337461648/figure/fig3/AS:828225206902784@1574475685125/An-example-of-the-minimum-edit-distance-algorithm-The-left-sub-figure-show-the-F-matrix.ppm)
+![EditDistance](https://www.ideserve.co.in/learn/img/editDistance_0.gif)
 
 ## Referencias
 [GeeksForGeeks](https://www.geeksforgeeks.org/edit-distance-dp-5/)
