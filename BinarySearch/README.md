@@ -8,5 +8,7 @@ Está altamente recomendado para buscar en arrays de gran tamaño. Por ejemplo, 
 ## Referencias
 
 [KhanAcademy](https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+
 [Wkipedia](https://es.wikipedia.org/wiki/B%C3%BAsqueda_binaria)
+
 [TheAlgorithms](https://the-algorithms.com/es/algorithm/binary-search)
