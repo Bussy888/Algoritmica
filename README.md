@@ -28,4 +28,3 @@
 
 # Fin ## por ahora...
 ![FIN](https://64.media.tumblr.com/05f98a00aae25f762302b612639da3fd/ce972d494add7a00-a1/s400x600/468f2820642c6781e1e21dda97dfcddee7f98acb.gifv)
-![BIT](https://prodeportiva.files.wordpress.com/2013/02/abi11.png)
