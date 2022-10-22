@@ -3,4 +3,5 @@ El algoritmo de subsecuencia creciente más larga es encontrar una subsecuencia 
 
 ## Referencias
 [Pier Guillen](https://pier.guillen.com.mx/algorithms/08-dinamica/08.3-lis_lds.htm)
+
 [ProgrammerClick](https://programmerclick.com/article/1240970462/)
