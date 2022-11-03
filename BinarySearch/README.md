@@ -5,6 +5,11 @@ Está altamente recomendado para buscar en arrays de gran tamaño. Por ejemplo, 
 
 ![BS](https://programacionpython.ecyt.unsam.edu.ar/material/06_Organizacion_y_Complejidad/bbin.png)
 
+## Ejercicios Relacionados
+[The Monkey and the Oiled Bamboo UVA - 12032](https://vjudge.net/problem/UVA-12032)
+
+[Coins And Triangle CodeChef - TRICOIN](https://vjudge.net/problem/CodeChef-TRICOIN)
+
 ## Referencias
 
 [KhanAcademy](https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
