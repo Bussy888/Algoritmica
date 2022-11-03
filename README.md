@@ -25,7 +25,13 @@
 1. [Kruskal](https://github.com/Bussy888/Algoritmica/tree/main/Teoria%20de%20Grafos)
 2. [Prim](https://github.com/Bussy888/Algoritmica/tree/main/Teoria%20de%20Grafos)
 
+# Parcial Final
+## Maximo Flujo
+1. [Ford Fulkerson](https://github.com/Bussy888/Algoritmica/tree/main/Maximo%20Flujo/Ford%20Fulkerson)
+2. [Edmonds Karp](https://github.com/Bussy888/Algoritmica/tree/main/Maximo%20Flujo/Edmonds%20Karp)
 
+## Geometria Computacional
+1. [Geometria](https://github.com/Bussy888/Algoritmica/tree/main/Geometria%20Computacional)
 # Fin
 ## Por ahora...
 ![FIN](https://64.media.tumblr.com/05f98a00aae25f762302b612639da3fd/ce972d494add7a00-a1/s400x600/468f2820642c6781e1e21dda97dfcddee7f98acb.gifv)
