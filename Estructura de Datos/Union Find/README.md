@@ -7,6 +7,7 @@ Union Find es una estructura de datos que modela una colección de conjuntos dis
 ## Ejercicios Relacionados
 [Union-Find](https://open.kattis.com/problems/unionfind)
 
-##Referencias
+## Referencias
 [GeeksForGeeks](https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/)
+
 [take U Forward](https://www.youtube.com/watch?v=3gbO7FDYNFQ)
