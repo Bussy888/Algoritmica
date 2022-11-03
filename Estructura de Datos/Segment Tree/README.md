@@ -6,3 +6,7 @@ Un árbol de segmento para un conjunto I de n intervalos usa O(n log n) de memor
 
 ## Ejercicios Relacionados
 [Potentiometers](https://vjudge.net/problem/UVA-12086)
+
+## Referencias
+[GeeksForGeeks](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+[Programacion Competitiva Chile](https://progcomp.cl/segmenttree)
