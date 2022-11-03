@@ -2,7 +2,9 @@ Trie es una estructura de datos basada en árbol, que se utiliza para retrieval 
 ![TRIE](https://simpledevcode.files.wordpress.com/2018/12/trie02.gif)
 ## Ejercicios relacionados:
 [Password Search](https://vjudge.net/problem/UVA-902)
+
 [Hardwood Species](https://vjudge.net/problem/UVA-10226)
 ## Referencias:
 [Trie con Insertar, Buscar y Eliminar](https://www.techiedelight.com/es/trie-implementation-insert-search-delete/)
+
 [GeeksForGeeks](https://www.geeksforgeeks.org/trie-insert-and-search/)
