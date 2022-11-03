@@ -1,4 +1,6 @@
 El algoritmo de Edmonds-Karp encuentra el flujo máximo en la red de flujo. Es una implementación del método Ford-Fulkerson utilizado para analizar la red de flujo. Edmonds-Karp mejora el tiempo de ejecución de Ford-Fulkerson.
+
+
 La diferencia entre este algoritmo y el método de Ford-Fulkerson es que el orden de búsqueda se define al encontrar la ruta de aumento. Para encontrar la ruta, usamos una búsqueda en anchura (BFS) aplicando el peso de 1 a cada borde. La ruta encontrada por BFS debe ser la más corta con la capacidad disponible.
 
 ![karp](https://i.ytimg.com/vi/L9B0oBQlXQ0/maxresdefault.jpg)
