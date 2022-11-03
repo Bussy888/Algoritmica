@@ -10,5 +10,9 @@ La diferencia entre este algoritmo y el método de Ford-Fulkerson es que el orde
 
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Algoritmo_de_Edmonds-Karp)
+
+
 [educative.io](https://www.educative.io/answers/what-is-the-edmonds-karp-algorithm)
+
+
 [Akmal Ahmad](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DL9B0oBQlXQ0&psig=AOvVaw2rz5vo907r6UC7MZxLaUkJ&ust=1667593336312000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCKjHkbjrkvsCFQAAAAAdAAAAABAT)
