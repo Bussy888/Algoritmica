@@ -2,6 +2,9 @@
 El algoritmo de Kruskal, dado un grafo conexo, no dirigido y ponderado, encuentra un árbol de expansión mínima. Es decir, es capaz de encontrar un subconjunto de las aristas que formen un árbol que incluya todos los vértices del grafo inicial, donde el peso total de las aristas del árbol es el mínimo posible.
 ![p1](https://www.wextensible.com/temas/voraces/ejemplos/arbol-recubrimiento-minimo.png)
 
+## Ejercicios Relacionados
+[Connect the Campus UVA - 10397](https://vjudge.net/problem/UVA-10397)
+
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Algoritmo_de_Kruskal)
 
@@ -15,6 +18,10 @@ Algoritmo de Prim es un algoritmo para encontrar un árbol recubridor mínimo en
 En otras palabras, el algoritmo encuentra un subconjunto de aristas que forman un árbol con todos los vértices, donde el peso total de todas las aristas en el árbol es el mínimo posible. Si el grafo no es conexo, entonces el algoritmo encontrará el árbol recubridor mínimo para uno de los componentes conexos que forman dicho grafo no conexo.
 
 ![Prim](https://www.wextensible.com/temas/voraces/ejemplos/grafo-kruskal.png)
+
+## Ejercicios Relacionados
+
+[Prim UVA - 10807](https://vjudge.net/problem/UVA-10807)
 
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Algoritmo_de_Prim)
